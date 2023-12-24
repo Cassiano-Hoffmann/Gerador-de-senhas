@@ -16,7 +16,7 @@ Clique no botão "Gerar Senha" para obter a senha aleatória.
 Visualize a senha gerada e, se desejar, clique no botão "Copiar" para copiá-la.
 
 # Imagem
-![Gerador de senhas](https://github.com/Cassiano-Hoffmann/Gerador-de-senhas/assets/117099774/f17cd8b4-ab6a-4f0a-a7d3-7bfbd2dd1410)
+![Gerador de senhas](https://github.com/Cassiano-Hoffmann/Gerador-de-senhas/assets/117099774/2bfc11e0-dec9-44b8-ae0a-5815c00e6f1f)
 
 # Personalização
 Se desejar personalizar o estilo ou adicionar novas funcionalidades, sinta-se à vontade para explorar e modificar o código-fonte.
