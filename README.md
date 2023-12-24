@@ -5,7 +5,7 @@ Este projeto consiste em um gerador de senhas aleatórias desenvolvido utilizand
 
 # Funcionalidades
 Geração de senhas aleatórias.
-Escolha do comprimento da senha.
+Escolha a quantidade de caracteres da senha.
 Inclui letras maiúsculas, letras minúsculas, números e caracteres especiais.
 Visualização da senha gerada antes de copiar.
 
